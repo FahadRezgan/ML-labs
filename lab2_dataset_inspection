@@ -1,0 +1,21 @@
+import pandas as pd
+
+
+df = pd.read_csv("lab2.csv")
+
+
+print("Dataset shape:", df.shape)
+
+
+df.head()
+
+
+print("\nColumn Names:")
+print(df.columns.tolist())
+
+
+print("\nDataset Info:")
+df.info()
+
+print("\nMissing values per column:")
+print(df.isnull().sum())
