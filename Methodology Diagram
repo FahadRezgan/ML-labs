@@ -1,0 +1,24 @@
+Dataset Selection (Kaggle)
+        ↓
+Load Dataset (Pandas)
+        ↓
+Data Inspection
+- Shape
+- Columns
+- Data Types
+- Missing Values
+        ↓
+Data Preprocessing
+- Handle missing values
+- Encode categorical variables
+- Feature selection
+        ↓
+Train-Test Split
+        ↓
+Model Training (Classification Model)
+        ↓
+Model Evaluation
+- Accuracy
+- Confusion Matrix
+        ↓
+Results & Insights
